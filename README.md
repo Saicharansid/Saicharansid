@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saicharansid
-- 👀 I’m interested in webdevelopment,UX designing , Photography ,everything about tech ,trends in tech, #Photography📷,#Traveller🧳 ,Elon musk is ❤🏍
+- 👀 I’m interested in webdevelopment, UX designing, Photography, everything about tech, trends in tech, #Photography📷, #Traveller🧳, Elon musk is ❤🏍
 - 🌱 I’m currently learning web tech , UX designing.
-- 💞️ I’m looking to collaborate on any projects on web dev .
+- 💞️ I’m looking to collaborate on any projects on web dev.
 - 📫 How to reach me  Mail📧saicharansid@gmail.com ,Insta-@sai_charan_sid .
 
 <!---
